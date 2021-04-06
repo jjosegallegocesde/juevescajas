@@ -1,0 +1,17 @@
+.padre{
+    height: 800px;
+    width: 800px;
+    background-color: green;
+    position: relative;
+    left: 200px;
+}
+
+.hijo{
+    height: 200px;
+    width: 800px;
+    background-color: red;
+    position: absolute;
+    bottom:0;
+    right:0;
+}
+
